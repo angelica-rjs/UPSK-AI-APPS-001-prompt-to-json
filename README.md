@@ -110,7 +110,7 @@ Antes de ejecutar los test copiar en la carpeta `/test` con el nombre
 OPENAI_API_KEY=<TODO:  poner  tu api  key> npm  test
 ```
 
-Una vez inicializada la herramienta podrás acceder [aquí](http://localhost:3000/)
+Una vz inicializada la herramienta podrás acceder [aquí](http://localhost:3000/)
 
 Utilizarás esta herramienta para crear y configurar tu propia aplicación AI,
 la cual podrás utilizar por medio de la UI proporcionada y también a través de
