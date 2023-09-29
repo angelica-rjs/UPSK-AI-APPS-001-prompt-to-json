@@ -16,7 +16,7 @@
 ## 1. Consideraciones generales
 
 - Esteproyecto lo resolvemos de manera **individual**.
-- El rango de tiempo estimado para completar el proyecto es de 1 a 2 Sprints.
+- El rang de tiempo estimado para completar el proyecto es de 1 a 2 Sprints.
 
 ## 2. Preámbulo
 
