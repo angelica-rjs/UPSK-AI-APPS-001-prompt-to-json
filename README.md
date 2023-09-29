@@ -118,6 +118,6 @@ peticiones HTTP.
 
 ## 8. Recursos
 
-- [Serie}de tutoriales en youtube (inglés)](https://www.youtube.com/watch?v=tD6fwQyUIJE&list=PL4HikwTaYE0HDOuXMm5sU6DH6_ZrHBLSJ)
+- [Serie}de tutorialesen youtube (inglés)](https://www.youtube.com/watch?v=tD6fwQyUIJE&list=PL4HikwTaYE0HDOuXMm5sU6DH6_ZrHBLSJ)
 - [Introducción a Ingenieria de Prompting](https://learnprompting.org/es/docs/basics/prompting)
 - [Encadenamientode Prompts](https://botpress.com/es/blog/what-is-ai-prompt-chaining#:~:text=Permite%20crear%20respuestas%20personalizadas%20basadas,mejora%20el%20compromiso%20del%20usuario.)
